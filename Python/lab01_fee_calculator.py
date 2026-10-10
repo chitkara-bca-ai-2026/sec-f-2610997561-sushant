@@ -18,5 +18,4 @@ print(f"Total Fee: {total_fee}")
 print(f"Discount: {discount_amount}")
 print(f"Fee After Discount: {fee_after_discount}")
 print(f"Annual Fee: {annual_fee}") 
-print(f"Monthly Installment: {monthly_installment:.2f}")
-
+print(f"Monthly Installment: {monthly_installment:.2f}") 
